@@ -19,7 +19,7 @@ for(int i = 1; i <= size; i++)
 for(int j = 1; j <= size; j++)  
 {  
 //calculates and prints the values for pattern  
-System.out.print(Math.max(Math.abs(i - n), Math.abs(j - n)) + 1 + " ");  
+System.
 }  
 System.out.println();  
 }  
